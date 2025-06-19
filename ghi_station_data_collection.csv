@@ -1,0 +1,15 @@
+,,,,,,,,,Altitude,Altitude
+ID,Nome,Provincia,Propriedade da Torre,Codigo,Longitude (X),Longitude (°),Latitude (Y),Latitude (°),1 (m),2 (m)
+MZ02,MZ02_LagoaPathi,Maputo Provincia,FUNAE,TM2,"33°6'13,64'' E",33.1038,"25°19'18,02'' S",-25.3217,60,
+MZ03,MZ03_Chomba,Cabo Delgado,FUNAE,TM3,"39°23,'36,16'' E",39.3934,"11°32'57,57'' S",-11.5493,60,
+MZ06,MZ06_Maravia,Tete,FUNAE,TM6,"31°40',3,3,7'' E",31.6676,"14°58'28,07'' S",-14.9745,60,
+MZ11,MZ11_Nhangau,Sofala,FUNAE,TM11,"35°2'18,72'' E",35.0385,"19°43'46,64'' S",-19.7296,60,
+MZ15,MZ15_Massangena,Gaza,MCeL,TDM,"32°56'26,72'' E",32.9408,"21°34'59,51'' S",-21.5832,60,
+MZ17,MZ17_Dindiza,Gaza,TDM,TDM,"33°25'22,78'' E",33.4230,"23°27'37,09'' S",-23.4603,60,
+MZ20,MZ20_Pomene,Inhambane,MCeL,MCeL 11,"35°35'35,52'' E",35.5932,"22°56'44,26'' S",-22.9456,60,
+MZ21,MZ21_Nhapassa,Manica,MCeL,MCeL 14,"33°13'0,79'' E",36.2536,"17°47'32,54'' S",-17.7924,60,40
+MZ24,MZ24_Nanhupo,Nampula,MCeL,MCeL 23,"39°30'46,77'' E",39.5130,"15°57'57,38'' S",-15.9659,60,40
+MZ25,MZ25_Massangulo,Niassa,TDM,TDM,"35°26'12,82'' E",35.4369,"13°54'25,93'' S",-13.9072,60,40
+MZ32,MZ32_Lugela,Zambezia,MCeL,MCeL 44,"36°42'47,51'' E",36.7132,"16°28'4,45'' S",-16.4679,60,40
+MZ34,MZ34_Massingir,Gaza,TDM,MCeL 49,"32°9'39,82'' E",32.1611,"23°55'7,78'' S",-23.9188,60,
+MZF01,UEM_Dep.Fisica,Maputo Cidade,UEM,DF 01,"33°6'13,64'' E",33.1038,"25°19'18,02'' S",-25.3217,47,
